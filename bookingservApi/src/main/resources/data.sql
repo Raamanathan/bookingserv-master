@@ -1,0 +1,2 @@
+INSERT INTO BOOKING VALUES (null,'Raam', null, '1997-12-10', '2022-01-29', '2022-01-30', 2500, 1000, 'hiii','kkk','chennai','tn','ind',200100);    
+INSERT INTO BOOKING VALUES (null,'Sachin', 'Tendulkar', '1997-12-10', '2022-01-29', '2022-01-30', 2500, 1000, 'hiii',null,'chennai','tn','ind',200100);
